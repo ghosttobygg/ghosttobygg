@@ -2,10 +2,10 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 </p>
 
-<h1 align="center">Hi, I'm kldaxz👋</h1>
+<h1 align="center">Hi, I'm j4xxxz👋</h1>
 
 <p align="center">
-  Bot Creator • Full-Stack Developer • Web Developer 
+  Bot Creator • Full-Stack Developer • Web Developer • Mobile Developer • Full-Stack 
 </p>
 
 <p align="center">
@@ -53,7 +53,7 @@ Deuteronômio Cap. 5
 ---
 
 <p>
- Made with lots of ❤️ and lots of ☕ by kldaxz.</p>
+ Made with lots of ❤️ and lots of ☕ by j4xxxz.</p>
 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1357179231108464772?idleMessage=Hi!%20%3AD)](https://discord.com/users/1357179231108464772)
