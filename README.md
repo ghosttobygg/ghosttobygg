@@ -56,6 +56,6 @@ Deuteronômio Cap. 5
  Made with lots of ❤️ and lots of ☕ by j4xxxz.</p>
 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1357179231108464772?idleMessage=Hi!%20%3AD)](https://discord.com/users/1357179231108464772)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1357179231108464772)](https://discord.com/users/1357179231108464772)
 
 ---
