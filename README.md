@@ -2,14 +2,14 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 </p>
 
-<h1 align="center">Hi, I'm D5CRIPTER👋</h1>
+<h1 align="center">Hi, I'm carecazk7👋</h1>
 
 <p align="center">
   Bot Creator • Full-Stack Developer • Web Developer • Mobile Developer • Full-Stack 
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Bot+Creator;Full-Stack+Developer;Web+Developer;Always+learning..." />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Bot+Creator;Full-Stack+Developer;Web+Developer;Always+Learning...;Mobile+Developer;Engenheiro+de+Software;Criador+de+Bots+Para+o+Discord" />
 </p>
 
 ---
@@ -53,7 +53,7 @@ Deuteronômio Cap. 5
 ---
 
 <p>
- Made with lots of ❤️ and lots of ☕ by D5CRIPTER.</p>
+ Made with lots of ❤️ and lots of ☕ by carecazk7.</p>
 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1357179231108464772)](https://discord.com/users/1357179231108464772)
