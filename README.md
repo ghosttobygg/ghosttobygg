@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 </p>
 
-<h1 align="center">Hi, I'm carecazk7👋</h1>
+<h1 align="center">Hi, I'm neurose👋</h1>
 
 <p align="center">
   Bot Creator • Full-Stack Developer • Web Developer • Mobile Developer • Full-Stack 
@@ -38,7 +38,7 @@
   </a>
   <br><br>
   <a href="https://discord.com/users/1357179231108464772">
-    <img src="https://img.shields.io/badge/Discord-j4xxxz-0f172a?style=for-the-badge&logo=discord&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Discord-neurose-0f172a?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </p>
 
@@ -53,7 +53,7 @@ Deuteronômio Cap. 5
 ---
 
 <p>
- Made with lots of ❤️ and lots of ☕ by carecazk7.</p>
+ Feito com muito amor e código por neurose.</p>
 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1357179231108464772)](https://discord.com/users/1357179231108464772)
